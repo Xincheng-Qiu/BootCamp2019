@@ -1203,7 +1203,7 @@ Suppose there exists
  Then
 \begin_inset Formula 
 \[
-\int_{E}\left|f\right|d\mu\geq\int_{A}\left|f\right|d\mu\geq\int_{A}fd\mu=\infty,
+\int_{E}\left|f\right|d\mu\geq\int_{X}\left|f\right|d\mu\geq\int_{X}fd\mu=\infty,
 \]
 
 \end_inset
