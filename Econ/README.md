@@ -67,14 +67,20 @@ Dynamic Structural Economics **Conference** by the Econometric Society, ""
 8-5  | M 8-10am | Machine Learning | [Richard Evans](https://sites.google.com/site/rickecon/) | ML Intro Slides | [Econ Prob. Set 7](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/ML_probset.pdf) |
 |  |  |  |  | [Classification Nbk](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/Classification/LogitKNN.ipynb) | due M, 8-9, 11pm |
 |  |  |  |  | [Resampling Nbk](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/Resampling/Resampling.ipynb) |  |
-8-5  | M 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | Notes | Econ Prob. Set 8 |
+8-5  | M 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | [Slides 1](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_Intl/lecture1.pdf) | [Econ Prob. Set 8](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_Intl/Intl_probset.pdf) |
 8-6  | T 8-10am   | Machine Learning | [Richard Evans](https://sites.google.com/site/rickecon/) | [Tree Methods](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/Trees/Trees.ipynb) | due M, 8-9, 11pm |
-8-6  | T 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | Notes |  |
+8-6  | T 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | [Slides 2](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_Intl/lecture2.pdf) |  |
 8-7  | W 8-10am | Machine Learning | [Richard Evans](https://sites.google.com/site/rickecon/) | [Support Vector Machines](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/SVM/SVM.ipynb) |  |
-8-7  | W 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | Notes |  |
+8-7  | W 10-noon | International Models | [Felix Tintelnot](http://felix-tintelnot.wikidot.com/) | [Slides 3](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_Intl/Lecture3EndogenousNetworks.pdf) |  |
 8-1  | Th  | Machine Learning | [Richard Evans](https://sites.google.com/site/rickecon/) | [Neural Nets](https://github.com/OpenSourceEcon/BootCamp2019/blob/master/Econ/Wk6_ML/NeuralNet/NeuralNet.ipynb) |  |
 8-2  | F 8-10am | Concluding discussion |  |  |  |
 
 ## References
 
+* Athey, Susan, ``The Impact of Machine Learning on Econometrics and Economics,'' keynote presentation, American Economics Association/American Finance Association joint luncheon at the Allied Social Sciences 2019 Annual Meeting, Atlanta, Georgia (January 5, 2019). [[Slides](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Slides/Athey2019_AEAAFAv2.pptx)]
+* Athey, Susan, ``[The Impact of Machine Learning on Economics](https://www.nber.org/chapters/c14009.pdf),'' forthcoming in *The Economics of Artificial Intelligence: An Agenda*, eds. Ajay K. Agarwal, Joshua Gans, and Avi Goldfarb, National Bureau of Economic Research (forthcoming).
 * Evans, Richard W. and Jason DeBacker, *Overlapping Generations Models for Policy Analysis: Theory and Computation*, (2019, draft).
+* Géron, Aurélien, *Hands-On Machine Learning with Scikit-Learn & TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, O'Reilly (2017).
+* Hastie, Trevor, Robert Tibshirani, and Jerome Friedman, [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction*](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), 2nd Edition, Springer (2009).
+* James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [*An Introduction to Statistical Learning*](http://link.springer.com.proxy.uchicago.edu/book/10.1007%2F978-1-4614-7138-7). New York: Springer.
+* Varian, Hal R., "[How to Build an Economic Model in Your Spare Time](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf)," in *Passion and Craft: Economists at Work*, eds. Michael Szenberg, University of Michigan Press, 1997.
